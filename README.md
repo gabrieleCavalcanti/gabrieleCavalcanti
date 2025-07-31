@@ -1,8 +1,4 @@
-# 👋 Olá, eu sou SEU_NOME
-
-Sou um desenvolvedor apaixonado por resolver problemas com código. Tenho experiência em várias linguagens e tecnologias, com foco em desenvolvimento web e mobile. Sempre buscando aprender mais e contribuir com projetos significativos.
-
----
+# 👋 Olá, eu sou a Gabi
 
 ## 🚀 Tecnologias que eu uso
 
@@ -23,21 +19,10 @@ Sou um desenvolvedor apaixonado por resolver problemas com código. Tenho experi
 
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
----
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark)
-
----
 
 ## 📫 Como me encontrar
 
-- Email: seu@email.com  
-- LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)  
-- GitHub: [github.com/SEU_USUARIO](https://github.com/SEU_USUARIO)
+- LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/gabrielefcavalcanti)  
 
 ---
 
