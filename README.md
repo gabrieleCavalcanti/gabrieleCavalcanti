@@ -22,7 +22,7 @@
 
 ## 📫 Como me encontrar
 
-- LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/gabrielefcavalcanti)  
+- LinkedIn: [linkedin.com/in/gabrielefcavalcanti](https://linkedin.com/in/gabrielefcavalcanti)  
 
 ---
 
