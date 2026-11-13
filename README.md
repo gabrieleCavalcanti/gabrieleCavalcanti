@@ -29,7 +29,7 @@
 <!-- EDITE: texto de apresentação. Mantenha curto. -->
 Estudante de **Ciência da Computação** na Unimetrocamp e **técnica em Desenvolvimento de Sistemas** pela ETEC Bento Quirino, em formação pelo SENAI Sumaré.
 
-Atuo na área de **Tecnologia da Informação**, com experiência em **Dados e Governança** no Grupo EMS. Meu interesse está em desenvolvimento back-end, desenvolvimento mobile, bancos de dados e análise de dados.
+Atuo na área de **Tecnologia da Informação**, com experiência em **Dados & IA**. Meu interesse está em desenvolvimento back-end, desenvolvimento mobile, bancos de dados e análise de dados.
 
 <div align="center">
 
